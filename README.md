@@ -11,3 +11,5 @@
 * [Inbuilt Kmeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
 * [Calculate Impurity in Kmeans](https://stats.stackexchange.com/questions/95731/how-to-calculate-purity)
+
+* [Inbuilt GMM](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
