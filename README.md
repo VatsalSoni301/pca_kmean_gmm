@@ -13,3 +13,7 @@
 * [Calculate Impurity in Kmeans](https://stats.stackexchange.com/questions/95731/how-to-calculate-purity)
 
 * [Inbuilt GMM](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
+
+* [Inbuilt Hierarchical](https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/)
+
+* [Should PCA used on categorical data ?](https://stackoverflow.com/questions/40795141/pca-for-categorical-features)
